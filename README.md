@@ -1,7 +1,7 @@
 # newRepo
 hello world
 
-new line
+new line 1
 
 Hello Taha
 I am on Master
